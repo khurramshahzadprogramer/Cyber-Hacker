@@ -1,6 +1,5 @@
 # 🧬 CYBER HACKER :: TERMINAL QUEST
 
-::: {align="center"}
 ### ⚡ `BREACH • DECODE • INFILTRATE • COMPLETE`
 
 **A cinematic browser-based cyber-hacker mini game built with pure HTML,
